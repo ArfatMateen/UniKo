@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,email,phone,hire_date,manager_id,job_title
+101,Kym,Whatsize,kwhatsize0@wunderground.com,+370 (693) 534-8606,11/08/2020,101,manager
+102,Keane,Plaide,kplaide1@howstuffworks.com,+33 (192) 932-7412,07/21/2017,102,manager
+103,Carilyn,Vost,cvost2@economist.com,+62 (196) 102-6337,04/28/2019,103,manager
+104,Niccolo,Lingfoot,nlingfoot3@bbb.org,+242 (292) 175-8783,12/12/2018,104,manager
+105,Terza,Pady,tpady4@fc2.com,+86 (205) 859-4774,06/21/2020,101,salesman
+106,Corenda,Morcomb,cmorcomb5@chron.com,+385 (583) 648-6112,02/25/2021,103,salesman
+107,Estevan,Delue,edelue6@photobucket.com,+63 (731) 853-6727,12/27/2017,104,salesman
+108,Stacee,Grogor,sgrogor7@histats.com,+86 (896) 441-7378,04/24/2020,104,salesman
+109,Carling,Brandoni,cbrandoni8@gov.uk,+86 (616) 666-3252,02/26/2018,104,salesman
+110,Lenette,Firebrace,lfirebrace9@scientificamerican.com,+55 (993) 479-9801,07/23/2020,104,salesman
+111,Aloise,Velden,aveldena@seesaa.net,+51 (808) 710-5880,07/06/2020,102,salesman
+112,Enrico,Pharo,epharob@cdbaby.com,+62 (205) 788-7661,09/12/2020,103,salesman
+113,Bendick,Spadoni,bspadonic@samsung.com,+86 (647) 647-1732,02/21/2018,103,salesman
+114,Kelci,Colmer,kcolmerd@youtube.com,+357 (956) 911-4506,03/10/2020,102,salesman
+115,Pepillo,Blizard,pblizarde@gravatar.com,+234 (741) 184-9268,02/27/2020,103,salesman
+116,Coop,Keunemann,ckeunemannf@trellian.com,+995 (730) 511-2219,08/14/2017,104,salesman
+117,Leigh,Elgy,lelgyg@instagram.com,+7 (340) 138-0832,12/06/2020,101,salesman
+118,Clareta,Currum,ccurrumh@nifty.com,+62 (409) 569-3843,11/20/2018,103,salesman
+119,Etti,Fochs,efochsi@craigslist.org,+33 (874) 678-9053,09/29/2019,102,salesman
+120,Hewe,Gilpin,hgilpinj@eepurl.com,+33 (142) 941-1063,07/05/2019,102,salesman

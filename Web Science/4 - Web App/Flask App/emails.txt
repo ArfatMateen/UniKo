@@ -1,0 +1,5 @@
+hello@world.com
+example@domain.com
+myemail@gmail.com
+newemail@gmail.com
+mynewemail@gmail.com
